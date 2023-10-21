@@ -1,4 +1,5 @@
 # Enviro-Predict
+IOT and data science based solution for cardio respiratory patients
 IBM Hackathon
 Based on the analysis,  EnviroPredict HealthGuard sends personalized alerts to patients, 
 advising them on the safety of their travel plans. 
